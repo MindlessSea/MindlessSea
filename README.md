@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averyocean&label=Profile%20views&color=0e75b6&style=flat" alt="averyocean" /> </p>
 
-- 🌱 I’m currently learning **Rustlang**
+- 🌱 I’m currently learning **how to make a PS1-Style Game**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AveryOcean](https://github.com/AveryOcean)
 
