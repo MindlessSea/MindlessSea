@@ -26,12 +26,3 @@ fn main() {
   ![Mindless Sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindlesssea&theme=transparent&show_icons=true)
   
 </div>
-
-<div align="center">
-  
-  <h1>My Projects</h1>
-  
-  [![Project](https://github-readme-stats.vercel.app/api/pin/?username=mindlesssea&repo=PronounViewer&theme=transparent)](https://github.com/MindlessSea/MindlessSea)
-  [![Project](https://github-readme-stats.vercel.app/api/pin/?username=mindlesssea&repo=MusicPlayer&theme=transparent)](https://github.com/MindlessSea/MindlessSea)
-  
-</div>
