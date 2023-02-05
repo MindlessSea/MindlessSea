@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Avery</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindlesssea&label=Profile%20views&color=0e75b6&style=flat" alt="mindlesssea" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sea_mindless" target="blank"><img src="https://img.shields.io/twitter/follow/sea_mindless?logo=twitter&style=for-the-badge" alt="sea_mindless" /></a> </p>
-
 - 🔭 I’m currently working on [MidAS](https://github.com/MindlessSea/MidAS)
 
 - 🌱 I’m currently learning **OS Development in Rust**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sea_mindless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sea_mindless" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mindless_sea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mindless_sea" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mindless_sea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mindless_sea" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
