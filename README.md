@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OS Development in Rust**
 
-- 🤝 I’m looking for help with [MidAS](https://github.com/MindlessSea/MidAS) and [n64-forge](https://github.com/n64-forge/n64-forge) 
+- 🤝 I’m looking for help with [MidAS](https://github.com/midas-os/MidAS) and [n64-forge](https://github.com/n64-forge/n64-forge) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MindlessSea](https://github.com/MindlessSea)
 
