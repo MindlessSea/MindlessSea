@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Avery</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindlesssea&label=Profile%20views&color=0e75b6&style=flat" alt="mindlesssea" /> </p>
 
-- 🔭 I’m currently working on [n64-forge](https://github.com/n64-forge/n64-forge)
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **OS Development in Rust**
 
-- 🤝 I’m looking for help with [MidAS](https://github.com/midas-os/MidAS) and [n64-forge](https://github.com/n64-forge/n64-forge) 
+- 🤝 I’m looking for help with [MidAS](https://github.com/midas-os/MidAS) 
 
 - 👨‍💻 All of my projects are available on [my profile!](https://github.com/averyocean65)
 
