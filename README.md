@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OS Development in Rust**
 
-- 🤝 I’m looking for help with [MidAS](https://github.com/midas-os/MidAS) 
+- 🤝 I’m looking for help with [my OS](https://github.com/averyocean65/avsys) 
 
 - 👨‍💻 All of my projects are available on [my profile!](https://github.com/averyocean65)
 
